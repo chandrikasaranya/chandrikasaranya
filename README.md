@@ -30,3 +30,12 @@ __Check out my GitHub repository:__
     </a>
   </p>
 </div>
+<h2> About Saranya⚡:</h2>
+
+I'm a Graduate Student living in India,  Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around India, drop an email and let's catch-up over Coffee!
+ 
+- Write to me: [saisrichandrikasaranya24@gmail.com](mailto:saisrichandrikasaranya24@gmail.com)
+
+<h2>📫 How to reach me:</h2>
+
+<a href="mailto:saisrichandrikasaranya24@gmail.com">![saisrichandrikasaranya24@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/pentapati-sai-sri-chandrika-saranya-710b24254">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
