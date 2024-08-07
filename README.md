@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 
 <!-- <h2 align='center'>P sai sri chandrika saranya @ chandrikasaranya</h2>
@@ -26,7 +26,7 @@ __Check out my GitHub repository:__
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=chandrikasaranya&repo=sasi-site-navbar" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/chandrikasaranya/progress-steps">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=chandrikasaranya&repo=progress_steps" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=chandrikasaranya&repo=progress-steps" alt="GitHub Stats" />
     </a>
   </p>
 </div>
