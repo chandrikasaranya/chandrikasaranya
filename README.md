@@ -15,7 +15,7 @@ I'm Saranya!
 <h2>💻 I'm Currently workng on</h2>
 
 - Academics
-- achieving role as IT industry
+- achieving role as IT employee
 
 
 __Check out my GitHub repository:__
