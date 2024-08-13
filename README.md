@@ -22,6 +22,9 @@ __Check out my GitHub repository:__
 
 <div>
   <p>
+     <a href="https://github.com/chandrikasaranya/form"
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=chandrikasaranya&repo=form" alt="GitHub Stats" />
+     </a>
     <a href="https://github.com/chandrikasaranya/sasi-site-navbar">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=chandrikasaranya&repo=sasi-site-navbar" alt="GitHub Stats" />
     </a>
